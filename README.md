@@ -1,5 +1,5 @@
 
-<img height="250" width="1140" src="https://png.pngtree.com/background/20230617/original/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.jpg">
+<img height="150" width="1140" src="https://png.pngtree.com/background/20230617/original/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.jpg">
 <h1 align="center">Hi 👋, I'm Muskan Yadav</h1>
 <h3 align="center">A result-oriented and self-driven data analyst</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
