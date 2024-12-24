@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **sonayadav6086@gmail.com** 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C-4uD__qXNzfr3G0maiTroGX_bNMjJLc/view](https://drive.google.com/file/d/1C-4uD__qXNzfr3G0maiTroGX_bNMjJLc/view)
-
 - ⚡ Fun fact **From playing with numbers to playing with data, I'm a Mathematician transitioning to Data Analytics!**
  
 <h3 align="left">Connect with me:</h3>
